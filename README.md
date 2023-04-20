@@ -1,5 +1,5 @@
 # Southern New Hampshire University  
-[Project 3](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/Project3_Trujillo)  
+[Project 3 - Produce Frequency Mappings](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/Corner-Grocer-Produce)  
 
 Project 3
 ---  
