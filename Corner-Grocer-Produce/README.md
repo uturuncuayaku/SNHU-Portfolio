@@ -1,13 +1,13 @@
 Screenshots  
 --- 
 Input list:  
-![input list](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/Screenshot 2023-04-20 161230.png)  
+![input list](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/Screenshot 2023-04-20 161230.png)   
 
 Welcome screen:  
 ![welcome](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/welcome.png)  
 
 Found Produce:  
-![found](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/FoundProduce.png)
+![found](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/FoundProduce.png)  
 
 Printing list:
 ![list](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/print list from search history.png)  
