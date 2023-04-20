@@ -7,8 +7,7 @@ Welcome screen:
 ![welcome](/Screenshots/welcome.png)  
 
 Found Produce:  
-[![found](/Screenshots/FoundProduce.png)  
-](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/FoundProduce.png)
+![found](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/FoundProduce.png)
 
 Printing list:
 ![list](/Screenshots/print list from search history.png)  
