@@ -9,7 +9,7 @@ Welcome screen:
 Found Produce:  
 ![found](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/FoundProduce.png)  
 
-Printing list:
+Printing list:  
 ![list](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/print list from search history.png)  
 ![userlist](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/user searched%20list%20and%20frequency%20mappings.png)  
 
