@@ -1,4 +1,15 @@
 # Southern New Hampshire University  
+---  
+
+# CS 230 Projects  
+[Project 3 - The Gaming Room ](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/The-Gaming-Room)  
+
+Project 3
+---  
+
+This project is the culmination of research into various programming tools and hardware to suggest a responsible approach towards the clients required needs. The Gaming Room is a multiplayer, multiteam piece of software that can save game states and have users login to their account or see their own teams progression. It explores multiple facets of cloud computing, analyzes the memory and storage requirements to run the game for the best user experience and most importantly outlines what ways we can make the software better for future upgrades and a detailed account of revisions to further our clients goals.
+
+# CS210 Projects
 [Project 3 - Produce Frequency Mappings](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/Corner-Grocer-Produce)  
 
 Project 3
