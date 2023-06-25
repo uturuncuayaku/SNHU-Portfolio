@@ -2,7 +2,7 @@
 ---  
 
 # CS 230 Projects  
-[Project 3 - The Gaming Room ](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/The-Gaming-Room)  
+[Project 3 - The Gaming Room ](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/The%20Gaming%20Room)  
 
 Project 3
 ---  
