@@ -1,7 +1,11 @@
 # Southern New Hampshire University  
 ---  
 
-# CS 230 Projects  
+# CS 250 Project 
+[Final Projecet - Sprint Retrospective and Review](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/)
+For this project I was asked to take the role of Scrum Master and to put together the Sprint Review and Retrospective. I summarized, analyzed and drew conclusions upon the work completed for a fictional company named Chada Tech. Throughout the semester various artifacts were created for this fictitious company transitioning from waterfall to agile. I created a GUI in Java alongside a fictitious team member and was in constant contact with the Product Owner(our teacher) to understand and clarify requirements for a detailed product backlog consisting of user stories. 
+
+# CS 230 Project  
 [Project 3 - The Gaming Room ](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/The%20Gaming%20Room)  
 
 Project 3
