@@ -1,23 +1,25 @@
 # Southern New Hampshire University  
 ---  
 
-# CS 250 Software Development Lifecycle Project 
+## CS 250 Software Development Lifecycle Project 
+--- 
+
 [Final Projecet - Sprint Retrospective and Review](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/Sprint%20Retrospective%20and%20Review)
 For this project I was asked to take the role of Scrum Master and to put together the Sprint Review and Retrospective. I summarized, analyzed and drew conclusions upon the work completed for a fictional company named Chada Tech. Throughout the semester various artifacts were created for this fictitious company transitioning from waterfall to agile. I created a GUI in Java alongside a fictitious team member and was in constant contact with the Product Owner(our teacher) to understand and clarify requirements for a detailed product backlog consisting of user stories. 
 
-# CS 230 Project  
+## CS 230 Operating Platforms Project 
+--- 
+
 [Project 3 - The Gaming Room ](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/The%20Gaming%20Room)  
 
-Project 3
----  
 
 This project is the culmination of research into various programming tools and hardware to suggest a responsible approach towards the clients required needs. The Gaming Room is a multiplayer, multiteam piece of software that can save game states and have users login to their account or see their own teams progression. It explores multiple facets of cloud computing, analyzes the memory and storage requirements to run the game for the best user experience and most importantly outlines what ways we can make the software better for future upgrades and a detailed account of revisions to further our clients goals.
 
-# CS210 Projects
+## CS210 Programming Languages (C++ and Java) Projects
+--- 
+
 [Project 3 - Produce Frequency Mappings](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/Corner-Grocer-Produce)  
 
-Project 3
----  
 
   The project I'm choosing to showcase is the last project done in Computer Science class 210 at Southern New Hampshire University is the Corner Grocer purchase history of produce with respective frequency count using mappings in C++. 
   
