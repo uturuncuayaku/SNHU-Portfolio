@@ -4,7 +4,7 @@
 ## CS 250 Software Development Lifecycle Project 
 --- 
 
-[Final Projecet - Sprint Retrospective and Review](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/Sprint%20Retrospective%20and%20Review)
+[Final Project - Sprint Retrospective and Review](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/Sprint%20Retrospective%20and%20Review)
 For this project I was asked to take the role of Scrum Master and to put together the Sprint Review and Retrospective. I summarized, analyzed and drew conclusions upon the work completed for a fictional company named Chada Tech. Throughout the semester various artifacts were created for this fictitious company transitioning from waterfall to agile. I created a GUI in Java alongside a fictitious team member and was in constant contact with the Product Owner(our teacher) to understand and clarify requirements for a detailed product backlog consisting of user stories. 
 
 ## CS 230 Operating Platforms Project 
@@ -15,7 +15,7 @@ For this project I was asked to take the role of Scrum Master and to put togethe
 
 This project is the culmination of research into various programming tools and hardware to suggest a responsible approach towards the clients required needs. The Gaming Room is a multiplayer, multiteam piece of software that can save game states and have users login to their account or see their own teams progression. It explores multiple facets of cloud computing, analyzes the memory and storage requirements to run the game for the best user experience and most importantly outlines what ways we can make the software better for future upgrades and a detailed account of revisions to further our clients goals.
 
-## CS210 Programming Languages (C++ and Java) Projects
+## CS210 Programming Languages (C++ and Java) Project
 --- 
 
 [Project 3 - Produce Frequency Mappings](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/Corner-Grocer-Produce)  
