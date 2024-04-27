@@ -14,7 +14,7 @@ For this project I was asked to take the role of Scrum Master and to put togethe
 ## CS 230 Operating Platforms Project 
 --- 
 
-[Project 3 - The Gaming Room ](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/The%20Gaming%20Room)  
+[Final Project - The Gaming Room ](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/The%20Gaming%20Room)  
 
 
 This project is the culmination of research into various programming tools and hardware to suggest a responsible approach towards the clients required needs. The Gaming Room is a multiplayer, multiteam piece of software that can save game states and have users login to their account or see their own teams progression. It explores multiple facets of cloud computing, analyzes the memory and storage requirements to run the game for the best user experience and most importantly outlines what ways we can make the software better for future upgrades and a detailed account of revisions to further our clients goals.
@@ -22,7 +22,7 @@ This project is the culmination of research into various programming tools and h
 ## CS210 Programming Languages (C++ and Java) Project
 --- 
 
-[Project 3 - Produce Frequency Mappings](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/Corner-Grocer-Produce)  
+[Final Project - Produce Frequency Mappings](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/Corner-Grocer-Produce)  
 
 
   The project I'm choosing to showcase is the last project done in Computer Science class 210 at Southern New Hampshire University is the Corner Grocer purchase history of produce with respective frequency count using mappings in C++. 
