@@ -2,13 +2,15 @@
 ---  
 ## CS 255 System Analysis and Design
 --- 
-[Final Project](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/DriverPass%20System%20Design)
+[Final Project](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/DriverPass%20System%20Design) 
+
 Design and analyze buisiness requirements for an online learning management system. This system was called DriverPass and was created by the product owner to help the DMV pass more student drivers by providing online training and on the road training with a driving instructor. I took on the role as a developer and highlighted the key aspects of the system to ensure completion by the proposed schedule. This meant creating UML diagrams, participating in group discussions, and communicating technical needs to a non-technical audience. The final proposal was a web app managed by a developer with data aggregation abilities and driving packages that consisted of scheduling a student with a driver and vehicle. 
 
 ## CS 250 Software Development Lifecycle Project 
 --- 
 
-[Final Project - Sprint Retrospective and Review](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/Sprint%20Retrospective%20and%20Review)
+[Final Project - Sprint Retrospective and Review](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/Sprint%20Retrospective%20and%20Review) 
+
 For this project I was asked to take the role of Scrum Master and to put together the Sprint Review and Retrospective. I summarized, analyzed and drew conclusions upon the work completed for a fictional company named Chada Tech. Throughout the semester various artifacts were created for this fictitious company transitioning from waterfall to agile. I created a GUI in Java alongside a fictitious team member and was in constant contact with the Product Owner(our teacher) to understand and clarify requirements for a detailed product backlog consisting of user stories. 
 
 ## CS 230 Operating Platforms Project 
