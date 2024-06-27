@@ -2,7 +2,7 @@
 ---  
 
 ## CS 300 Data structures Algorithms: Design and Analysis 
-[Final Project - ABC University]()
+[Final Project - ABC University](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/Course%20Planner)
 
 The university (ABCU) is looking for software to help its computer science advisors access course information for students. 
 
