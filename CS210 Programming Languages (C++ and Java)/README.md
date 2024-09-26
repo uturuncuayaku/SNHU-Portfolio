@@ -15,4 +15,14 @@ Printing list:
 ![userlist](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/user%20searched%20list%20and%20frequency%20mappings.png)  
 
 Histogram:  
-![histogram](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/histogram.png)  
+<a href="https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/histogram.png" target="_blank">
+    <img src="https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/histogram.png" alt="histogram" width="500">
+</a>
+## Journal
+  The project I'm choosing to showcase is the last project done in Computer Science class 210 at Southern New Hampshire University is the Corner Grocer purchase history of produce with respective frequency count using mappings in C++. 
+  
+  I needed to prompt user for a produce item they wish to look for and then I returned the numeric value for the frequency of the specific word. What I did particularly well in this project was being able to abstract away the complexities of the individual pieces of code that make the program run to meet specifications. I knew I needed to create a filestream to open the file to be read, and that I needed to parse the input. This was the engine of my program that ran a while loop to determine what the menu option pressed by the user was at the time. The piece that was particularly hard was determining how to create a list of a mapping and I settled for creating a list that is similar to logging commands while I'm debugging my programs. 
+   
+   I overcame this challenge by introducing a new class at the end of my project to be able to save one produce item to a vector when searched for by the user to later be displayed in histogram format. This wasn't challenging but required me to abstract more logic away to the engine of the program. I used Zybook's notes for the areas of my code that were complex. This definitely took the longest because of all the submodules. I think my code could be more secure and more efficient by analyzing the pipeline of information better to abstract away more details and decouple my code from the menu better for added functionality in the future.
+   
+   The skills I've used in my python 1-D map game with seperate rooms in a list within a dictionary definitely set me up for success in this class and am very happy to have had the experience of doing something creative. I tried making the program readable by naming everything to its local function and keeping all the variables in one place such as abstracting to a function if the logic became complex like in the switch statement where I had to monitor the user input. I made it adaptable by using many classes that you can import and create objects from to use as you wish and this was how I overcame the hurdles and it helped develop the roadmap for completion.
