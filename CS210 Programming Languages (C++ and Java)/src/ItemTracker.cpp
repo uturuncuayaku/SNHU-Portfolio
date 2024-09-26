@@ -38,7 +38,7 @@ int main() {
 	cout << setfill('*') << setw(welcome.size()) << "" << endl;
 
 	//Opens file and retrieves contents
-	string path = "E:\\Project3\\CS210_Project_Three_Input_File.txt";
+	string path = "resources\\CS210_Project_Three_Input_File.txt";
 	ReadFile produceItems = ReadFile();
 	produceItems.openFile(path);
 	unordered_map<string, int> produceFreq = produceItems.getFileContents();
