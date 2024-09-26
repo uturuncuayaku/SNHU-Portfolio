@@ -1,26 +1,5 @@
 # Southern New Hampshire University  
 Project 3 - Software Design document for client  
+The Gaming Room client required the deployment of an existing app to a cloud-based server, allowing concurrent users and teams to save their game states. The game, Draw it or Lose it, is multiplayer and demands ultra-responsive performance, where teams take turns guessing what a displayed picture depicts. A key achievement in this project was translating the multiple requirements into a cohesive, uniform business flow, illustrating a deep understanding of the technical aspects necessary for successful deployment to game clients. By leveraging rapidly deployable Java code and Dropwizard configurations, we were able to test different cloud solutions before selecting the best option. Several platforms were evaluated, addressing critical security considerations such as authentication and the integration of secure, widely-used libraries like Dropwizard.
 
-The Gaming Room client requires an existing app to be deployed to a cloud
-based server. They want concurrent users and teams to be able to save their
-game state. Pictures will be downloaded and shown towards the teams and they
-will each have turns in guessing what the picture is depicting. Draw it or
-Lose it is multiplayer and ultra responsive due to the requirement needs being
-addressed within this documentation. What I believe is well done is the
-ability to translate the multiple requirements into a cohesive uniform
-business flow that illustrates the depth of knowledge necessary to deploy this
-software built in a previous project to the necessary game clients. Rapidly
-deployable Java code and dropwizard configurations allow us to be able to test
-the systems before completely sticking with one cloud provided solution. There
-are multiple platforms discussed with various security implications addressed
-such as authentication and building upon secure and widely used libraries such
-as dropwizard. I would improve it by adding the actual game implementation but
-due to the other projects and classes that was unfeasible because we worked on
-other software applications during the course of the semester. Interpreting
-the needs of the clients became easily apparent while coding and structuring
-the libraries to interact with the current code that was to be moved to the
-cloud to provide a better user experience. Approaching the design with the
-consumer in mind allows us as developers to anticipate and react to changes
-within a system to better serve a more reliable codebase for players and
-future developers. This future is approachable, responsible and good for
-business. 
+While the game implementation itself was not completed due to time constraints from other projects, I successfully structured the libraries to interface with the existing code, ensuring a smooth transition to the cloud and enhancing the user experience. One area of improvement would be to fully implement the game functionality in the future. By prioritizing the client’s needs and focusing on scalability, the design anticipates changes and ensures a reliable codebase for both current players and future developers. This forward-thinking approach promotes adaptability, responsibility, and long-term business success.
