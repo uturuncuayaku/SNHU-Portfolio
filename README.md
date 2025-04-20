@@ -1,5 +1,8 @@
-# Southern New Hampshire University  
+# Southern New Hampshire University 
 ---  
+## CS 360 Mobile Architecture and Programming 
+Inventory Tracker Mobile Application 
+
 ## CS 350 Software Security
 [Final Project - Artemis Financial](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS350%20Artemis%20Financial/ssl-server_student)  
 Artemis Financial is seeking my company Global Rain's advice and expertise on how to protect its client data and financial information. After examining the software using the latest Spring Boot framework and Java JDK 22. We have created a secure web application with an appropriate algorithm and web certificate to protect client data and financial information. End goal was to address any security vulnerabilities after deployment of web application.
