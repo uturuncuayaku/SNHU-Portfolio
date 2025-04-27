@@ -92,3 +92,13 @@ This project will serve as a strong foundation for future Android, Java, and mob
 
 ---
 
+# 📸 Screenshots
+
+### Login Screen
+![Login Screen](./screenshots/login%20page.png)
+
+### Home Screen
+![Home Screen](./screenshots/inventory.png)
+
+### Nav Drawer
+![Nav](./screenshots/Logout.png)
