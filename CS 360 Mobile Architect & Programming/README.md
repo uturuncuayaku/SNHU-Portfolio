@@ -95,8 +95,8 @@ This project will serve as a strong foundation for future Android, Java, and mob
 ---
 
 # 📸 Screenshots
-### Home Screen
-![Home Screen](./screenshots/inventory.png)
+<p align="center">  
+  <img src="./screenshots/inventory.png" alt="Inventory List" width="45%">
+  <img src="./screenshots/Logout.png" alt="Home Screen" width="45%">
+</p>
 
-### Nav Drawer
-![Nav](./screenshots/Logout.png)
