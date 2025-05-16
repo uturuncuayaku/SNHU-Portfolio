@@ -20,7 +20,6 @@ Compatible with 98% of android devices.
 - Gradle Plugin Version: 8.3+ 
 
 ## Dependencies
-- ML Kit Barcode Scanning
-- OkHttp or Retrofit
-- Gson or org.json
-- Material Components for UI
+- ML Kit Barcode Scanning to read the barcode images from camera or file
+- OkHTTP to make API call to nutritional database
+- Gson for json response
