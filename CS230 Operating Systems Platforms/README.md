@@ -1,4 +1,4 @@
-# A software Design recommendation document  
+# A software design recommendation document  
 
 The Gaming Room client required the deployment of an existing app to a cloud-based server, allowing concurrent users and teams to save their game states. 
 
