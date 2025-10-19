@@ -11,7 +11,7 @@ Animal Search and Rescue Full Stack Application
 Artemis Financial is seeking my company Global Rain's advice and expertise on how to protect its client data and financial information. After examining the software using the latest Spring Boot framework and Java JDK 22. We have created a secure web application with an appropriate algorithm and web certificate to protect client data and financial information. End goal was to address any security vulnerabilities after deployment of web application.
 
 ## CS 300 Data structures Algorithms: Design and Analysis  
-[ABC University]([https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/Course%20Planner](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS300%20Data%20Structures%20Algorithms))  
+[ABC University Course Planner](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS300%20Data%20Structures%20Algorithms)  
 
 The university (ABCU) is looking for software to help its computer science advisors access course information for students. 
 
