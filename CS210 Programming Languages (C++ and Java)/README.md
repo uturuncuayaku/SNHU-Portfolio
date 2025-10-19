@@ -10,21 +10,13 @@ The skills I developed in my previous Python project—a 1-D map game with rooms
 
 Screenshots  
 --- 
-Input list:  
-![input list](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/Screenshot%202023-04-20%20161230.png)   
+Input list of Produce
+![input list]([https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/Screenshot%202023-04-20%20161230.png](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/Screenshot%202023-04-20%20161230.png?raw=true)   
 
-Welcome screen:  
-![welcome](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/welcome.png)  
+Finding Produce 
+![found](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/FoundProduce.png?raw=true)  
 
 Found Produce:  
-![found](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/FoundProduce.png)  
+![list]([https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/print%20list%20from%20search%20history.png](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/FoundProduce.png?raw=true))  
 
-Printing list:  
-![list](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/print%20list%20from%20search%20history.png)  
-
-![userlist](https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/user%20searched%20list%20and%20frequency%20mappings.png)  
-
-Histogram:  
-<a href="https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/histogram.png" target="_blank">
-    <img src="https://github.com/uturuncuayaku/SNHU-Portfoli/blob/main/Corner-Grocer-Produce/Screenshots/histogram.png" alt="histogram" width="500">
-</a>
+![Histogram](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/histogram.png?raw=true)
