@@ -1,4 +1,4 @@
-# CS 250 Software Development Lifecycle Final Project
+# CS 250 Software Development Lifecycle Journal
 Interpreting the user needs and gathering requirements for the completion of our
 SNHU Travel Site required interview people that have used the service before and
 want to contribute their expertise and insight into how the site should be run.
