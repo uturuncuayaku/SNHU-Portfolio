@@ -39,6 +39,6 @@ This project is the culmination of research into various programming tools and h
 ## CS210 Programming Languages (C++ and Java) Project
 --- 
 
-[Final Project - Produce Frequency Mappings](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/Corner-Grocer-Produce)  
+[Purchase history](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS210%20Programming%20Languages%20(C%2B%2B%20and%20Java))  
 
-The project, "Corner Grocer: Purchase History of Produce with Frequency Count Using Mappings in C++," involved designing a program to track and display the frequency of produce items in a purchase history. The program allows users to search for specific items and view how often each appears, with the data being organized using mappings. I implemented a file reading system, parsed user input, and introduced a class to store and display search results in a histogram. The project highlights my ability to abstract complex logic and organize code efficiently.
+The project, "Corner Grocer: Purchase History of Produce with Frequency Count Using Mappings in C++," involved designing a program to track and display the frequency of produce items in a purchase history. The program allows users to search for specific items and view how often each appears, with the data being organized using mappings. I implemented a file reading system, parsed user input, and introduced a class to store and display search results in a histogram. This project highlights my ability to abstract complex data/user input and organize code efficiently.
