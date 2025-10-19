@@ -16,8 +16,5 @@ Input list of Produce
 Finding Produce  
 ![found](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/FoundProduce.png?raw=true)  
 
-Found Produce  
-![list](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/FoundProduce.png?raw=true) 
-
 Histogram and integer mapping  
 ![Histogram](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/histogram.png?raw=true)![Histogram Map](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/user%20searched%20list%20and%20frequency%20mappings.png?raw=true)
