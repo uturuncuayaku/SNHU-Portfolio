@@ -31,7 +31,7 @@ For this project I was asked to take the role of Scrum Master and to put togethe
 ## CS 230 Operating Platforms Project 
 --- 
 
-[Final Project - The Gaming Room ](https://github.com/uturuncuayaku/snhu-portfolio/tree/main/The%20Gaming%20Room)  
+[The Gaming Room Design Document](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS230%20Operating%20Systems%20Platforms)  
 
 
 This project is the culmination of research into various programming tools and hardware to suggest a responsible approach towards the clients required needs. The Gaming Room is a multiplayer, multiteam piece of software that can save game states and have users login to their account or see their own teams progression. It explores multiple facets of cloud computing, analyzes the memory and storage requirements to run the game for the best user experience and most importantly outlines what ways we can make the software better for future upgrades and a detailed account of revisions to further our clients goals.
