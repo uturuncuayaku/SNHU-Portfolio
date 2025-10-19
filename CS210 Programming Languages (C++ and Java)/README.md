@@ -1,3 +1,4 @@
+![Welcome](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/welcome.png?raw=true)
 ## Journal
 The project I am showcasing is the final assignment from my Computer Science class (CS 210) at Southern New Hampshire University, titled "Corner Grocer: Purchase History of Produce with Frequency Count Using Mappings in C++."
 
