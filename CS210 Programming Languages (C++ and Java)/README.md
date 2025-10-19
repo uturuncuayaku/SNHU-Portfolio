@@ -10,7 +10,7 @@ The skills I developed in my previous Python project—a 1-D map game with rooms
 
 Screenshots  
 --- 
-Input list of Produce 
+Input list of Produce  
 ![input list](https://github.com/uturuncuayaku/SNHU-Portfolio/blob/main/CS210%20Programming%20Languages%20(C++%20and%20Java)/Screenshots/Screenshot%202023-04-20%20161230.png?raw=true)  
 
 Finding Produce  
