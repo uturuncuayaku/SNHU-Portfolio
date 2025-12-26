@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventory Tracker</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <string name="account_icon">Account Icon</string>
+    <string name="user_example_com">user@example.com</string>
+    <string name="list_of_inventory_items">List of inventory items.</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="password">Password</string>
+    <string name="create_a_password">Create a password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="passwords_don_t_match_please_re_enter">Passwords don\'t match, please re-enter.</string>
+    <string name="create_account">Create Account</string>
+    <string name="item_name">Item Name:</string>
+    <string name="enter_item_name">Enter item name..</string>
+    <string name="short_description">Short Description:</string>
+    <string name="enter_a_short_description">Enter a short description</string>
+    <string name="item_quantity">Item Quantity:</string>
+    <string name="enter_item_quantity">Enter item quantity..</string>
+    <string name="enable_sms_notifications">Enable SMS Notifications.</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="save_item">Save Item</string>
+    <string name="inventory_dashboard">Inventory Dashboard</string>
+    <string name="username">Username</string>
+    <string name="enter_email">Enter email..</string>
+    <string name="enter_password">Enter password..</string>
+    <string name="login">Login</string>
+    <string name="request_permissions">Request Permissions</string>
+    <string name="add_item_button">Add item button.</string>
+    <string name="edit_item_button">Edit item button.</string>
+    <string name="delete_item_button">Delete item button.</string>
+    <string name="test_item_name">[TEST] Item name</string>
+    <string name="lorem_ipsum">[TEST] Short description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="_10">10</string>
+    <string name="item_quantity_label">Item Quantity label.</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+</resources>

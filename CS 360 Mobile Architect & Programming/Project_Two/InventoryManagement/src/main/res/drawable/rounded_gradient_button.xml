@@ -1,0 +1,17 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Gradient background -->
+    <gradient
+        android:startColor="@color/purple_500"
+        android:endColor="@color/blue_200"
+        android:angle="45"/>
+    <!-- Rounded corners -->
+    <corners android:radius="24dp" />
+    <!-- Button size -->
+    <size android:width="48dp" android:height="48dp" />
+    <!-- Padding inside the button -->
+    <padding
+        android:left="12dp"
+        android:right="12dp"
+        android:top="12dp"
+        android:bottom="12dp" />
+</shape>
