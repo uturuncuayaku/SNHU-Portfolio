@@ -2,7 +2,6 @@
 ### Login Screen
 <img src="./screenshots/login%20page.png" alt="Login Screen" width="50%">
 Completed DSA: Analysis and Design
-![Login Screen](./screenshots/login%20page.png)
 
 ## Project Summary
 
