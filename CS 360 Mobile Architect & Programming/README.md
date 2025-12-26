@@ -1,8 +1,9 @@
 # 📓 Android Inventory Tracker — Development Journal
 ### Login Screen
-<img src="./screenshots/login%20page.png" alt="Login Screen" width="50%">
-Completed DSA: Analysis and Design
-
+<img src="./screenshots/login%20page.png"
+     alt="Login Screen"
+     width="50%"
+     style="display:block; margin:auto;">
 ## Project Summary
 
 The **Inventory Tracker** app was designed to meet the needs of users managing personal or small business inventories.  
