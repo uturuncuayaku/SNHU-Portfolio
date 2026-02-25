@@ -1,5 +1,3 @@
+This GitHub portfolio showcases my work from CS 405: Secure Coding, representing a transition from theoretical security governance to the practical application of defensive programming. The repository is centered around a comprehensive Secure Development Policy for Green Pace, which establishes a framework of ten core security principles and mandatory coding standards for C/C++, Java, and SQL environments. To demonstrate these principles in action.
 
-    Project One Security Policy
-    Project Two Presentation
-    Coding ZIP files
-    Portfolio journal reflection (Word document)
+I have included three primary technical artifacts: a Buffer Overflow mitigation script that uses manual boundary checking to prevent memory corruption, an Encryption module that implements symmetric XOR transformations with performance-oriented assertions, and a SQL Injection demonstration. Utilizing the SQLite library that illustrates how to identify and neutralize database vulnerabilities. Together, these projects reflect my ability to evaluate software threats, automate vulnerability detection, and develop secure, verifiable code within a modern development lifecycle.
