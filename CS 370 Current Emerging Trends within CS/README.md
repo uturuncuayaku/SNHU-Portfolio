@@ -14,17 +14,11 @@ The goal of this repository is to document experiments, model implementations, a
 CS370/
 │
 ├── README.md
-├── datasets/
 ├── notebooks/
 ├── src/
-├── results/
-└── resources.md
 ```
 
 ### Folder Descriptions
-
-**datasets/**  
-Contains dataset files or instructions for downloading datasets used in projects.
 
 **notebooks/**  
 Jupyter notebooks used for experimentation, training models, and visualizing results.
@@ -32,11 +26,6 @@ Jupyter notebooks used for experimentation, training models, and visualizing res
 **src/**  
 Python scripts implementing machine learning models and training pipelines.
 
-**results/**  
-Model outputs, graphs, confusion matrices, and evaluation results.
-
-**resources.md**  
-Useful machine learning resources, datasets, and research links.
 
 ---
 
@@ -67,9 +56,7 @@ Typical workflow used in the projects within this repository:
 
 ---
 
-# Example Dataset Structure
-
-Most machine learning projects follow this dataset structure:
+# Cartpole Dataset Structure
 
 ```
 X_train
@@ -128,23 +115,6 @@ Example model performance:
 
 Training Accuracy: 98%  
 Testing Accuracy: 97%
-
-Further evaluation includes:
-
-- confusion matrices
-- prediction visualizations
-- error analysis
-
----
-
-# Future Work
-
-Future improvements to this repository may include:
-
-- experimenting with deeper neural networks
-- exploring convolutional neural networks (CNNs)
-- testing additional datasets
-- optimizing model hyperparameters
 
 ---
 
