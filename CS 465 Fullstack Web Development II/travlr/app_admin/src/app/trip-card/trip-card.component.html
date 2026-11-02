@@ -1,0 +1,12 @@
+<div class="card h-100 shadow-sm">
+  <img [src]="'assets/images/' + trip.image" class="card-img-top" [alt]="trip.name" style="height: 200px; object-fit: cover;">
+  <div class="card-body d-flex flex-column">
+    <h5 class="card-title text-primary font-weight-bold">{{ trip.name }}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">{{ trip.resort }} - {{ trip.length }}</h6>
+    <p class="card-text text-truncate-custom flex-grow-1" [innerHTML]="trip.description"></p>
+    <div class="d-flex justify-content-between align-items-center mt-3 pt-2 border-top">
+      <span class="badge bg-success fs-6">{{ trip.perPerson }}</span>
+      <button *ngIf="isLoggedIn()" class="btn btn-warning btn-sm font-weight-bold" (click)="editTrip(trip)">Edit Trip</button>
+    </div>
+  </div>
+</div>

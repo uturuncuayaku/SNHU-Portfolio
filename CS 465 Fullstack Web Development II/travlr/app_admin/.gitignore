@@ -1,0 +1,23 @@
+# Angular build & cache
+/.angular
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.cproject
+.settings/
+*.sublime-workspace
+
+# Operating System
+.DS_Store
+Thumbs.db

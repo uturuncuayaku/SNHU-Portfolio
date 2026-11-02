@@ -1,0 +1,71 @@
+<div class="container my-4">
+  <div class="row justify-content-center">
+    <div class="col-md-8 col-lg-6">
+      <div class="card shadow-lg">
+        <div class="card-header bg-success text-white">
+          <h3 class="mb-0 fs-4">Add New Trip</h3>
+        </div>
+        <div class="card-body">
+          <form [formGroup]="addForm" (ngSubmit)="onSubmit()">
+            <div class="mb-3">
+              <label class="form-label">Trip Code</label>
+              <input type="text" formControlName="code" class="form-control" [ngClass]="{ 'is-invalid': submitted && f['code'].errors }" placeholder="e.g. GALR210214">
+              <div *ngIf="submitted && f['code'].errors" class="invalid-feedback">Trip code is required</div>
+            </div>
+
+            <div class="mb-3">
+              <label class="form-label">Trip Name</label>
+              <input type="text" formControlName="name" class="form-control" [ngClass]="{ 'is-invalid': submitted && f['name'].errors }" placeholder="e.g. Gale Reef Resort">
+              <div *ngIf="submitted && f['name'].errors" class="invalid-feedback">Trip name is required</div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Length</label>
+                <input type="text" formControlName="length" class="form-control" [ngClass]="{ 'is-invalid': submitted && f['length'].errors }" placeholder="e.g. 4 nights / 5 days">
+                <div *ngIf="submitted && f['length'].errors" class="invalid-feedback">Length is required</div>
+              </div>
+
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Start Date</label>
+                <input type="date" formControlName="start" class="form-control" [ngClass]="{ 'is-invalid': submitted && f['start'].errors }">
+                <div *ngIf="submitted && f['start'].errors" class="invalid-feedback">Start date is required</div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Resort</label>
+                <input type="text" formControlName="resort" class="form-control" [ngClass]="{ 'is-invalid': submitted && f['resort'].errors }" placeholder="e.g. Gale Reef, 4 stars">
+                <div *ngIf="submitted && f['resort'].errors" class="invalid-feedback">Resort is required</div>
+              </div>
+
+              <div class="col-md-6 mb-3">
+                <label class="form-label">Price per Person</label>
+                <input type="text" formControlName="perPerson" class="form-control" [ngClass]="{ 'is-invalid': submitted && f['perPerson'].errors }" placeholder="e.g. $799.00">
+                <div *ngIf="submitted && f['perPerson'].errors" class="invalid-feedback">Price is required</div>
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label class="form-label">Image File Name</label>
+              <input type="text" formControlName="image" class="form-control" [ngClass]="{ 'is-invalid': submitted && f['image'].errors }" placeholder="e.g. reef1.jpg">
+              <div *ngIf="submitted && f['image'].errors" class="invalid-feedback">Image file name is required</div>
+            </div>
+
+            <div class="mb-3">
+              <label class="form-label">Description</label>
+              <textarea formControlName="description" class="form-control" rows="4" [ngClass]="{ 'is-invalid': submitted && f['description'].errors }" placeholder="Trip description HTML/text..."></textarea>
+              <div *ngIf="submitted && f['description'].errors" class="invalid-feedback">Description is required</div>
+            </div>
+
+            <div class="d-flex justify-content-end gap-2">
+              <a routerLink="/list-trips" class="btn btn-secondary">Cancel</a>
+              <button type="submit" class="btn btn-success">Save Trip</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
