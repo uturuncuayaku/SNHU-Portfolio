@@ -1,10 +1,15 @@
 # Southern New Hampshire University 
 ---  
+## CS 465 Full Stack Web Development I
+Produced a fully functional travel web application for our client Travlr Getaways. Designed a Node.js event driven runtime using a restful API service. Exposing API endpoints under /api/trips which support GET, POST, PUT operations. The frontend consisted of a server-side rendered travel catalog built with Handlebars(framework template engine). The single page application was built with Angular at /admin for trip administration. Database used for the backend was MongoDB storing trip schemas and trip records.
+
 ## CS 360 Mobile Architecture and Programming 
 Inventory Tracker Mobile Application 
+This Android mobile application is built using Java, XML, and a local SQLite database to provide secure user authentication and robust inventory management. It features an intuitive, user-centered design that mimics the Google Mail inbox side drawer for seamless dynamic folder organization, alongside standard mobile navigation patterns. Additionally, the application integrates an SMS alert system tied into SharedPreferences, ensuring reliable user notifications and streamlined offline session efficiency.
 
 ## CS 340 Client Server Development
 Animal Search and Rescue Full Stack Application 
+A full-stack web application developed to assist rescue animal organizations in identifying and filtering candidate dogs for search-and-rescue training. The application integrates Python, MongoDB, and the Google Maps API to provide real-time geospatial visualization and dynamic database filtering through an interactive web interface.
 
 ## CS 350 Software Security
 [Java Spring Boot Web Application](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS350%20Software%20Security/ssl-server_student)  
