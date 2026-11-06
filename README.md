@@ -9,7 +9,7 @@ Produced a fully functional travel web application for our client Travlr Getaway
 This Android mobile application is built using Java, XML, and a local SQLite database to provide secure user authentication and robust inventory management. It features an intuitive, user-centered design that mimics the Google Mail inbox side drawer for seamless dynamic folder organization, alongside standard mobile navigation patterns. Additionally, the application integrates an SMS alert system tied into SharedPreferences, ensuring reliable user notifications and streamlined offline session efficiency.
 
 ## CS 340 Client Server Development
-Animal Search and Rescue Full Stack Application 
+[Animal Search and Rescue Full Stack Application](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS340%20Client%20Server%20Development)  
 A full-stack web application developed to assist rescue animal organizations in identifying and filtering candidate dogs for search-and-rescue training. The application integrates Python, MongoDB, and the Google Maps API to provide real-time geospatial visualization and dynamic database filtering through an interactive web interface.
 
 ## CS 350 Software Security
