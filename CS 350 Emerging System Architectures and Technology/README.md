@@ -1,4 +1,6 @@
 # CS 350 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Summarize the project and what problem it was solving.  
 The first milestone started with understanding how embedded devices work at a low level. The bread board connected to the Raspberry Pi's GPIO interface was the first step for our first milestone alongside an LED light that is controlled through pulse width modulation software. Python allowed us to abstract the electrical impulses so that we could focus on dimming and smoothly lighting up the LED. This project specifically pushed us as students to understand what is happening directly without placing our device in danger due to voltage configurations because of our interface drivers talking to the linux kernel. 
