@@ -1,10 +1,12 @@
 # 📓 Android Inventory Tracker — Development Journal
-### Login Screen
+### Login Screen  
 <img src="./screenshots/login%20page.png"
      alt="Login Screen"
      width="50%"
-     style="display:block; margin:auto;">
-## Project Summary
+     style="display:block; margin:auto;">  
+## Project Summary  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 The **Inventory Tracker** app was designed to meet the needs of users managing personal or small business inventories.  
 The core requirement was to **track items**, **categorize them**, and **manage user authentication** in a simple, secure, and accessible way.  
