@@ -1,9 +1,4 @@
-# 📓 Android Inventory Tracker — Development Journal
-### Login Screen  
-<img src="./screenshots/login%20page.png"
-     alt="Login Screen"
-     width="50%"
-     style="display:block; margin:auto;">  
+# 📓 Inventory Tracker  
 ## Project Summary  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -100,6 +95,7 @@ This project will serve as a strong foundation for future Android, Java, and mob
 
 # 📸 Screenshots
 <p align="center">  
+  <img src="./screenshots/login%20page.png" alt="Login Screen" width="45%">  
   <img src="./screenshots/inventory.png" alt="Inventory List" width="45%">
   <img src="./screenshots/Logout.png" alt="Home Screen" width="45%">
 </p>
