@@ -16,6 +16,8 @@
 
 ![Learn Angular from Scratch app](screenshots/lafs-web-demo-2026-10-08.png)
 
+![Learn Angular from Scratch app screenshot](screenshots/lafs-web-demo-2026-10-08-2.png)
+
 ---
 
 # Angular Tutorial: Learn Angular from scratch step by step
