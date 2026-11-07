@@ -1,3 +1,23 @@
+# Screenshots
+
+### AWS Lambda functions
+
+![Lambda functions](screenshots/lambda-functions-2026-10-03-1.png)
+
+![Updated Lambda functions](screenshots/lambda-functions-2026-10-03-2.png)
+
+![Lambda functions sorted by last modified](screenshots/lambda-functions-2026-10-03-3.png)
+
+### API Gateway
+
+![API Gateway findOne method](screenshots/api-gateway-find-one-2026-10-06.png)
+
+### Application
+
+![Learn Angular from Scratch app](screenshots/lafs-web-demo-2026-10-08.png)
+
+---
+
 # Angular Tutorial: Learn Angular from scratch step by step
 
 This project is part of Learn Angular from scratch step by step tutorial where we explore from the basic concepts and why’s of Angular Framework to building a complete Angular app using Angular Material components.
