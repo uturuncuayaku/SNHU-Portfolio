@@ -1,7 +1,7 @@
 # Southern New Hampshire University 
 ---  
 ## CS 470 Fullstack Development II  
-[Learn Angular from Scratch FAQ Application](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS%20470%20Fullstack%20Development%20II/lafs-web)  
+[Questions and Anwers using Angular](https://github.com/uturuncuayaku/SNHU-Portfolio/tree/main/CS%20470%20Fullstack%20Development%20II/lafs-web)  
 Built a full-stack application with an Angular single-page frontend and a AWS cloud-based REST API. The application organizes questions by category and presents answers, this frontend creates and manages questions and answers using our AWS Gateway API. Its backend uses AWS Lambda functions exposed through API Gateway, and DynamoDB holds the questions and answers tables using a primary partition id and sort id.  
 
 ## CS 465 Full Stack Web Development I
